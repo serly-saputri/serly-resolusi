@@ -1,9 +1,12 @@
 RENCANA KONTEN 
 - renov studio
   *membeli printilah hiasan
-   -beli lampu
-   -beli hiasan dinding
+coba-fitur-2
+   - binkai 
+   - poster
+main
   *mengecat 
+   - cream
 - menyiapkan ide konten
 - mencatatat barang yang diperlukan untuk konten
 - ambil sample baju
