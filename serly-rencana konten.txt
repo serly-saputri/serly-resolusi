@@ -1,8 +1,10 @@
 RENCANA KONTEN 
 - renov studio
   *membeli printilah hiasan
+coba-fitur-2
    - binkai 
    - poster
+main
   *mengecat 
    - cream
 - menyiapkan ide konten
